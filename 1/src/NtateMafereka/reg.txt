@@ -1,6 +1,0 @@
-Name: Thabiso
-Last Name: Lesole
-Sddress: Mohale'S hoek 800
-Gender: male
-Id Number: 060337121427
-Job TitleScientist

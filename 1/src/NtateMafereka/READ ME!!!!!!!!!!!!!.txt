@@ -1,2 +1,0 @@
-to view the records,,,the user must log in as admin
-email for admin is "admin" and password is "1234"
