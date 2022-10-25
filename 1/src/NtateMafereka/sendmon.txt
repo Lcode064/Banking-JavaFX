@@ -1,0 +1,3 @@
+Amount debited: M800
+Account Number: 12345
+Send By: Lisema
